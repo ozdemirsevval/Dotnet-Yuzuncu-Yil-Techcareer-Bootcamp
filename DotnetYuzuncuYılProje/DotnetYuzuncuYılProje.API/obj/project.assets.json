@@ -495,9 +495,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sevva\\dotnet-techcareer\\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\\DotnetYuzuncuYılProje\\DotnetYuzuncuYılProje.API\\DotnetYuzuncuYılProje.API.csproj",
-      "projectName": "DotnetYuzuncuYılProje.API",
-      "projectPath": "C:\\Users\\sevva\\dotnet-techcareer\\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\\DotnetYuzuncuYılProje\\DotnetYuzuncuYılProje.API\\DotnetYuzuncuYılProje.API.csproj",
+      "projectUniqueName": "C:\\Users\\sevva\\dotnet-techcareer\\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\\DotnetYuzuncuYılProje\\DotnetYuzuncuYılProje.API\\DotnetYuzuncuYilProje.API.csproj",
+      "projectName": "DotnetYuzuncuYilProje.API",
+      "projectPath": "C:\\Users\\sevva\\dotnet-techcareer\\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\\DotnetYuzuncuYılProje\\DotnetYuzuncuYılProje.API\\DotnetYuzuncuYilProje.API.csproj",
       "packagesPath": "C:\\Users\\sevva\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sevva\\dotnet-techcareer\\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\\DotnetYuzuncuYılProje\\DotnetYuzuncuYılProje.API\\obj\\",
       "projectStyle": "PackageReference",

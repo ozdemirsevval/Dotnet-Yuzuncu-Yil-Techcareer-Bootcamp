@@ -1,0 +1,16 @@
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\bin\Debug\net6.0\DotnetYuzuncuYilProje.Repository.deps.json
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\bin\Debug\net6.0\DotnetYuzuncuYilProje.Repository.dll
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\bin\Debug\net6.0\DotnetYuzuncuYilProje.Repository.pdb
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\bin\Debug\net6.0\DotnetYuzuncuYilProje.Core.dll
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\bin\Debug\net6.0\DotnetYuzuncuYilProje.Core.pdb
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProje.Repository.csproj.AssemblyReference.cache
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProje.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProje.Repository.AssemblyInfoInputs.cache
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProje.Repository.AssemblyInfo.cs
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProje.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProje.Repository.sourcelink.json
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProje.Repository.csproj.CopyComplete
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProje.Repository.dll
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\obj\Debug\net6.0\refint\DotnetYuzuncuYilProje.Repository.dll
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProje.Repository.pdb
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Repository\obj\Debug\net6.0\ref\DotnetYuzuncuYilProje.Repository.dll

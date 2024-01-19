@@ -1,0 +1,12 @@
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Core\bin\Debug\net6.0\DotnetYuzuncuYilProje.Core.deps.json
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Core\bin\Debug\net6.0\DotnetYuzuncuYilProje.Core.dll
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Core\bin\Debug\net6.0\DotnetYuzuncuYilProje.Core.pdb
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilProje.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilProje.Core.AssemblyInfoInputs.cache
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilProje.Core.AssemblyInfo.cs
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilProje.Core.csproj.CoreCompileInputs.cache
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilProje.Core.sourcelink.json
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilProje.Core.dll
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Core\obj\Debug\net6.0\refint\DotnetYuzuncuYilProje.Core.dll
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilProje.Core.pdb
+C:\Users\sevva\dotnet-techcareer\Dotnet-Yuzuncu-Yil-Techcareer-Bootcamp\DotnetYuzuncuYılProje\DotnetYuzuncuYilProje.Core\obj\Debug\net6.0\ref\DotnetYuzuncuYilProje.Core.dll
