@@ -10,6 +10,6 @@ namespace DotnetYuzuncuYilProje.Core
     {
         public int Id { get; set; } //primary key
         public DateTime CreatedDateTime { get; set; }
-        public DateTime UpdatedDateTime { get; set; }
+        public DateTime? UpdatedDateTime { get; set; }
     }
 }
