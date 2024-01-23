@@ -1,8 +1,13 @@
 using DotnetYuzuncuYilProje.Core.Repositeries;
+using DotnetYuzuncuYilProje.Core.Services;
 using DotnetYuzuncuYilProje.Core.UnitOfWorks;
 using DotnetYuzuncuYilProje.Repository;
 using DotnetYuzuncuYilProje.Repository.Repositories;
 using DotnetYuzuncuYilProje.Repository.UnitOfWorks;
+using DotnetYuzuncuYilProje.Service;
+using DotnetYuzuncuYilProje.Service.Mapping;
+using DotnetYuzuncuYilProje.Service.Validations;
+using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 
@@ -14,9 +19,16 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddScoped <IUnitOfWork,UnitOfWork>();
-builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(GenericRepository<>));
-
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
+builder.Services.AddAutoMapper(typeof(MapProfie));
+builder.Services.AddControllers()
+    .AddFluentValidation(x =>
+    {
+        x.RegisterValidatorsFromAssemblyContaining<MovieDtoValidator>();
+        x.RegisterValidatorsFromAssemblyContaining<AudienceDtoValidator>();
+    });
 //AppDbContext Ýþlemleri
 builder.Services.AddDbContext<AppDbContext>(x =>
 {

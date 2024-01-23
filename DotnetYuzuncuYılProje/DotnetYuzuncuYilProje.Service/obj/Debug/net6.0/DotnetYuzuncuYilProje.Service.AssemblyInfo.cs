@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotnetYuzuncuYilProje.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53cb9ac37b02eca6b6079652d70ad5d690ae3225")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02a9764bbd16021eaa094b8cfbb0055dce0e1d29")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotnetYuzuncuYilProje.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotnetYuzuncuYilProje.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
